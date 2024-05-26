@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=idncod.visitor-badge" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=3FF72C&background=090D13AC&center=true&random=false&width=500&height=100&lines=idncod;Viola+Lykova;Frontend+Engineer" alt="Typing SVG" /></a>
-<h1 align="center">
+<!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=viola_lykova;" />
-</h1>
+</h1>-->
 <h3 align="center">Architecting advanced E-commerce platforms, optimizing conversions, and maximizing revenue streams through innovative web solutions.</h3>
 <div align="center"> 
   <a href="mailto:idncod@proton.me">
