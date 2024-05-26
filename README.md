@@ -1,6 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=idncod.visitor-badge" />
-<a href="https://git.io/typing-svg" style="max-width: 1012px; display: block; margin: 0 auto;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=3FF72C&background=090D13AC&center=true&random=false&width=1012&height=100&lines=idncod;Viola+Lykova;Frontend+Engineer" alt="Typing SVG" style="width: 100%; max-width: 1012px;" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=3FF72C&background=090D13AC&center=true&random=false&width=435&lines=idncod;Viola+Lykova;Frontend+Engineer" alt="Typing SVG" /></a>
 </a>
 
 <!--<h1 align="center">
