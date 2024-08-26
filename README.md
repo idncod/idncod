@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=IBM+Plex+Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=idncod;" />
 </h1>
-<h3 align="center">Architecting advanced E-commerce platforms, optimizing conversions, and maximizing revenue streams through innovative web solutions.</h3>
+<h3 align="center">Software engineer, Frontend with DevOps and Fullstack experience. Advanced Linux user. Cypress Ambassador. Expert in CI/CD, Software testing: Visual Regression (Percy), Unit (Jest), Cypress (E2E, Integration). Over 7 years' experience delivering quality software in Agile cycles.</h3>
 <div align="center"> 
   <a href="mailto:idncod@proton.me">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -18,8 +18,8 @@
  <hr/>
  
 <!-- START My tech stack -->
-<h2 align="center">🛠️My Stack</h2>
-<p>Frontend Engineer | Cypress - Jest - Vue - Nuxt - SASS - CSS - Node - REST API - React - Next - TS - JS - Relational DBs - PostgreSQL | Cypress Ambassador</p>
+<h2 align="center">🛠️Stack</h2>
+<p> Cypress - Jest - Vue - Nuxt - SASS - CSS - Node - REST API - React - Next - TypeScript - JavaScript - Relational DBs - PostgreSQL | Cypress Ambassador </p>
 
 
 
