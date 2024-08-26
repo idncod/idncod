@@ -19,7 +19,7 @@
  
 <!-- START My tech stack -->
 <h2 align="center">🛠️Stack</h2>
-<p> Cypress - Jest - Vue - Nuxt - SASS - CSS - Node - REST API - React - Next - TypeScript - JavaScript - Relational DBs - PostgreSQL | Cypress Ambassador </p>
+<p> Vue - Nuxt - SASS - CSS - Node - REST API - React - Next - TypeScript - JavaScript - Relational DBs - PostgreSQL - CI/CD - GitHub Actions - CircleCI - Percy - Cypress - Jest</p>
 
 
 
