@@ -10,6 +10,8 @@ React and Next.js on the surface, AWS and reliability underneath.
 <a href="https://www.linkedin.com/in/violaly/">LinkedIn</a> ·
 <a href="https://www.youtube.com/@vetkadev">YouTube</a> ·
 <a href="https://www.idncod.com/blog">Blog</a>
+<a href="https://www.idncod.com/resources">Resources</a>
+
 </p>
 
 <hr/>
